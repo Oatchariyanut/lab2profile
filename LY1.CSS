@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.conteiner {
+    width: 960px;
+    margin: 0 auto;
+    background-color: rgb(226, 143, 35);
+    overflow: hidden;
+}
+
+header {
+    text-align: center;
+    width: 880px;
+    height: 100px;
+    background-color: rgb(255, 255, 255);
+    margin: 0 auto;
+
+}
+
+section{
+    margin-left: 41px;
+    margin-top: 20px;
+    text-align: center;
+    width: 545px;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    float: left; 
+}
+
+aside{
+    margin-left: 25px;
+    margin-top: 20px;
+    width: 305px;
+    height: 500px;
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    float: left;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    width: 880px;
+    height: 150px;
+    font-size: 30px;
+    margin: 10px auto;
+}
